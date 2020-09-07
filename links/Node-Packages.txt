@@ -1,0 +1,4 @@
+npm install restify
+npm install --save botbuilder-dialogs
+npm install --save botbuilder-ai
+npm install dotenv
