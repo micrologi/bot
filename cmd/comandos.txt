@@ -1,13 +1,13 @@
 - Certifica-se que sua versão do NPM é a mais atual:
 npm install -g npm
 
-- Instala o Yeoman, gerador para Javascript
-npm install -g yo generator-botbuilder
-
 npm install restify
 npm install --save botbuilder-dialogs
 npm install --save botbuilder-ai
 npm install dotenv
+
+- Instala o Yeoman, gerador para Javascript
+npm install -g yo generator-botbuilder
 
 - Usa o gerador para criar um Echo Bot
 yo botbuilder
